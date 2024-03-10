@@ -1,0 +1,21 @@
+.header{
+  text-align: center;
+}
+.input{
+  width: 500px;
+  margin: 0px auto;
+}
+.heading{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  height: 45px;
+  border-bottom: 2px solid green;
+}
+.heading button{
+position: relative;
+bottom: 17px;
+}
+.first{
+  width: 30px;
+}
